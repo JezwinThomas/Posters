@@ -11,17 +11,19 @@
 <hr>
 
 ![Spark AR](https://user-images.githubusercontent.com/94758080/151338520-f5149229-37fd-49d3-87b6-0d1ef267d892.jpg)
-
-https://github.com/krishnaprasadkpk
-https://github.com/adamsyy
-
-<hr>
-
-![1bf2aa0f-1d60-4404-9401-d2b262176a3c (4)](https://user-images.githubusercontent.com/94758080/151340602-e731313b-ef45-4f8b-adfa-1c52893627c0.jpg)
-
+<br>
+With:
+<br>
+[krishnaprasadkpk](https://github.com/krishnaprasadkpk)
+<br>
+[adamsyy](https://github.com/adamsyy)
 
 <hr>
 
+<!-- ![1bf2aa0f-1d60-4404-9401-d2b262176a3c (4)](https://user-images.githubusercontent.com/94758080/151340602-e731313b-ef45-4f8b-adfa-1c52893627c0.jpg)
+
+<hr>
+ -->
 <br>
 
 ### I also unironically like to make different styles of designs. This is something that I make just for fun.
