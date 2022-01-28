@@ -1,6 +1,6 @@
-## Here are a few posters and designs I worked on.
+## Here are a few posters I worked on.
 ## Contact me  ' @jeswinthomas__ '  through instagram if you want a designer in your community 🙂
-## Currently working designer in Tinkerhub MEC and TLE MEC 
+## Currently working as designer in Tinkerhub MEC and TLE MEC 
 
 ![WhatsApp Image 2022-01-27 at 14 31 54](https://user-images.githubusercontent.com/94758080/151337559-7e050daf-f0a4-4259-9b8a-2dd6169724c0.jpg)
 
@@ -11,6 +11,9 @@
 <hr>
 
 ![Spark AR](https://user-images.githubusercontent.com/94758080/151338520-f5149229-37fd-49d3-87b6-0d1ef267d892.jpg)
+
+https://github.com/krishnaprasadkpk
+https://github.com/adamsyy
 
 <hr>
 
